@@ -13,3 +13,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# generate files
+etc/hostname
+etc/hosts
+etc/resolv.conf
+mo-data/
